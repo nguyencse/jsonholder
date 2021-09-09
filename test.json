@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "user_name": "Nguyễn Y Nguyên",
+        "user_phone": "0377170342",
+        "station_name": "Quầy gửi hàng 1",
+        "station_phone": "0987654321",
+        "station_address": "180 Xô Viết Nghệ Tĩnh, phường 21, quận Bình Thạnh, TP.HCM",
+        "pickup_at": "16:00 ngày mai (10/9)"
+    }
+}
